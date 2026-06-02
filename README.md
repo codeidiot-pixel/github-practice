@@ -1,1 +1,22 @@
-GitHub practice workspace
+# GitHub Practice Journal
+
+GitHub 사용법을 작은 단위로 연습하기 위한 학습 기록 프로젝트입니다.
+
+## 오늘의 GitHub 연습 목표
+
+- 변경 사항을 작은 단위로 커밋하기
+- 브랜치를 만들어 작업 흐름 익히기
+- Pull Request를 열고 리뷰 흐름 확인하기
+
+## 프로젝트 구성
+
+- `docs/learning-log.md`: 오늘 배운 내용을 기록합니다.
+- `docs/git-commands.md`: 자주 쓰는 Git 명령어를 정리합니다.
+- `docs/commit-plan.md`: 커밋을 어떤 단위로 나눌지 계획합니다.
+
+## 연습 흐름
+
+1. 파일 하나를 조금만 수정합니다.
+2. 변경 내용을 확인합니다.
+3. 의미 있는 커밋 메시지로 커밋합니다.
+4. 다음 작은 변경으로 넘어갑니다.
